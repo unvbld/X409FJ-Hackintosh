@@ -1,6 +1,6 @@
 # EFI for ASUS X409FJ
 
-This EFI guide summarizes the hardware specifications and functionality of the **ASUS X409FJ** running **macOS Big Sur 11.7** with **OpenCore r0.6.5**.
+This EFI guide summarizes the hardware specifications and functionality of the **ASUS X409FJ** running **macOS Big Sur 11.7** with **OpenCore r1.0.4**.
 
 ![Result Image](image/result1.png)
 ![Result Image](image/result2.png)
